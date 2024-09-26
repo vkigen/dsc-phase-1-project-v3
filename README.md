@@ -3,15 +3,15 @@
 
 The goal of this GITHUB repository is to data cleaning, imputation, analysis, and visualization to generate insights for our DSC-PHASE-1-PROJECT.
 
-Main .ipynb notebook called **"student.ipynb"**
-Powerpoint presentation called **presentation.pdf**
+Main .ipynb notebook called **"student.ipynb"**.
+Powerpoint presentation called **presentation.pdf**.
 
 Two Tableua dashboard were created. The links to the dashboards are as follows:
 
 https://public.tableau.com/app/profile/victor.kigen3018/viz/dsc-phase-1-project-dashboard/AirplaneMakeDashboard?publish=yes
 https://public.tableau.com/app/profile/victor.kigen3018/viz/dsc-phase-1-project-dashboard/AviationDataDashboard
 
-
+The first dashboard shows the risk analysis of different aircrafts'. The second dashboard has more general KPIs for accidents in the industry.
 
 ### Business Problem/Understanding
 
@@ -44,6 +44,8 @@ Clean data:
 ## Conclusion
 
 **Recommendation 1:** Only purchase aircrafts that have a low risk score 
+
 **Recommendation 2:** Gather more financial and aircraft usage information in order to make a more informed decision
+
 **Recommendation 3:** Purchase aircrafts that require less pilot training as this can directly have a negative financial impact. Pilot training is related to the number of pilot error related accidents.  
 
